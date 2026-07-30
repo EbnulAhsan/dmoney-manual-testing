@@ -92,7 +92,7 @@ and evidence included here should not be used in a production environment.
 ## 👤 Author
 
 **MD. Ebnul Ahsan**
-Aspiring Software Quality Assurance Engineer
+Aspiring Software Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-EbnulAhsan-181717?style=flat&logo=github)](https://github.com/EbnulAhsan)
 
